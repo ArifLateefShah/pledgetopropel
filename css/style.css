@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@700&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#000000;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+.text-blue {
+    color:#233E8B;
+}
+.text-white {
+    color:#FFFFFF;
+}
+.text-yellow {
+    color:#FEDC5A;
+}
+.bg-blue {
+    background-color: #233E8B;
+}
+.bg-black {
+    background-color: #22222D;
+}
+.bg-offwhite {
+    background-color: #FFFFFF80;
+}
+.bg-little {
+    background-color: #F5F5F5;
+}
+.bg-little-blue {
+    background-color: #EDF6FF;
+}
+.border-blue {
+    border-color: #233E8B !important;
+}
+section {
+    padding: 100px 0;
+}
+.hero {
+    background-image: url('../img/hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.hero-content {
+    border-radius: 20px;
+    padding: 40px 40px 30px;
+    margin: 50px auto auto;
+}
+ul.top-menu {
+    list-style: none;
+    padding: 0;
+}
+ul.top-menu li {
+    background-color: #FFFFFF80;
+    display: inline-block;
+    margin: auto 10px;
+    border-radius: 5px;
+}
+ul.top-menu li a {
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+.cta .container{
+    background-image: url('../img/cta-bg.png');
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mission {
+    background-image: url('../img/mission-bg.png');
+}
+@media screen and (min-width:768px) {
+    .footer-logo {
+        min-height: 500px;
+    }
+
+}

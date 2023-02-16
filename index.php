@@ -12,7 +12,7 @@
     background: #aaa;
   }
   .bg-primary{
-    background-image: url('./top-banner.png');
+    background-image: url('./assets/images/top-banner.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@
             <div class="container">
                 <div class="banner">
                     <div class="logo">
-                        <img src="./logo.png">
+                        <img src="./assets/images/logo.png">
                     </div>
                     <div class="nav-links">
                         <!-- <h4>Connect</h4> -->

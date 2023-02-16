@@ -15,7 +15,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">
-            <img src="./img/logo.png" alt="logo" />
+            <img src="./img/logo.png" alt="logo" class="mb-4 mb-sm-0" />
           </div>
           <div class="col-md-6 text-end">
             <ul class="top-menu">
@@ -68,7 +68,7 @@
         <h1 class="text-center mb-5">Here are some ways we can help you</h1>
         <div class="row">
           <div class="col-md-4">
-            <div class="p-4 border rounded">
+            <div class="p-4 border rounded mb-4 mb-sm-0">
               <img
                 src="./img/professional.svg"
                 alt="professional"
@@ -84,7 +84,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="p-4 border rounded bg-blue">
+            <div class="p-4 border rounded bg-blue mb-4 mb-sm-0">
               <img
                 src="./img/entrepreneur.svg"
                 alt="entrepreneur"
@@ -126,7 +126,7 @@
           <div class="col-md-8">
             <div class="row">
               <div class="col-md-6">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center mb-4 mb-sm-0">
                   <img
                     src="./img/mentor.svg"
                     alt="mentor"
@@ -163,7 +163,7 @@
           <div class="col-md-8">
             <div class="row my-4">
               <div class="col-md-6">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center mb-4 mb-sm-0">
                   <img
                     src="./img/coaching.svg"
                     alt="coaching"
@@ -191,7 +191,7 @@
             </div>
             <div class="row my-4">
               <div class="col-md-6">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center mb-4 mb-sm-0">
                   <img
                     src="./img/network.svg"
                     alt="network"
@@ -228,7 +228,7 @@
           <div class="col-md-8">
             <div class="row">
               <div class="col-md-6">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center mb-4 mb-sm-0">
                   <img
                     src="./img/mentor.svg"
                     alt="mentor"
@@ -262,7 +262,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-3">
-            <img src="./img/cta-girl.png" alt="cta" />
+            <img src="./img/cta-girl.png" alt="cta" class="mb-4 mb-sm-0" />
           </div>
           <div class="col-md-6">
             <h3 class="text-blue">Help is just a click away</h3>
@@ -275,7 +275,7 @@
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
               target="_blank"
-              class="bg-blue rounded px-5 py-4 text-white text-decoration-none"
+              class="bg-blue rounded px-5 py-4 text-white text-decoration-none d-inline-block"
               >Click Here</a
             >
           </div>
@@ -311,7 +311,7 @@
             >
           </div>
           <div class="col-md-6">
-            <img src="./img/mentor.png" alt="mentor" />
+            <img src="./img/mentor.png" alt="mentor" class="img-fluid mt-4 mt-sm-0"  />
           </div>
         </div>
       </div>
@@ -320,69 +320,69 @@
       <h1 class="text-center mb-5">Meet the Mentors</h1>
       <div class="container text-center">
         <div class="row">
-          <div class="col-md-3">
-            <div class="bg-blue p-4 rounded-circle d-inline-block"><img src="./img/arun.png" alt="Rajasekar" class="mb-3"/></div>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/rajasekar.png" alt="Rajasekar" /></div>
             <p class="mb-0 fw-bold">Rajasekar</p>
             <p>14+ Years<br />Telecom</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Nithyanandakumar" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/nithyanandakumar.png" alt="Nithyanandakumar" /></div>
             <p class="mb-0 fw-bold">Nithyanandakumar</p>
-            <p>25+ Years<br />Fintech</p>
+            <p>14+ Years<br />Fintech</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Veera" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/veera.jpg" alt="Veera" /></div>
             <p class="mb-0 fw-bold">Veera</p>
-            <p>25+ Years<br />Fintech</p>
+            <p>17+ Years<br />Fintech</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Rajmohan" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/rajmohan.png" alt="Rajmohan" /></div>
             <p class="mb-0 fw-bold">Rajmohan</p>
-            <p>25+ Years<br />Healthcare</p>
+            <p>12+ Years<br />Healthcare</p>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Aswin" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/aswin.png" alt="Aswin" /></div>
             <p class="mb-0 fw-bold">Aswin</p>
-            <p>25+ Years<br />FMCG</p>
+            <p>11+ Years<br />FMCG</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Ramanvel" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/ramanvel.png" alt="Ramanvel" /></div>
             <p class="mb-0 fw-bold">Ramanvel</p>
-            <p>25+ Years<br />Fintech</p>
+            <p>14+ Years<br />Fintech</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Aravindhan" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/aravindhan.png" alt="Aravindhan" /></div>
             <p class="mb-0 fw-bold">Aravindhan</p>
-            <p>25+ Years<br />Fintech</p>
+            <p>9+ Years<br />Fintech</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Sundar" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/sundar.png" alt="Sundar" /></div>
             <p class="mb-0 fw-bold">Sundar</p>
-            <p>25+ Years<br />Fintech</p>
+            <p>13+ Years<br />Fintech</p>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Arjun" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/arjun.png" alt="Arjun" /></div>
             <p class="mb-0 fw-bold">Arjun</p>
-            <p>25+ Years<br />Healthcare</p>
+            <p>9+ Years<br />Healthcare</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Ramesh MM" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/ramesh.png" alt="Ramesh" /></div>
             <p class="mb-0 fw-bold">Ramesh MM</p>
-            <p>25+ Years<br />Fintech</p>
+            <p>14+ Years<br />Fintech</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Prem Kumar" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/premkumar.png" alt="Prem Kumar" /></div>
             <p class="mb-0 fw-bold">Prem Kumar</p>
-            <p>25+ Years<br />Healthcare</p>
+            <p>13+ Years<br />Healthcare</p>
           </div>
-          <div class="col-md-3">
-            <img src="./img/arun.png" alt="Nithin" class="mb-3"/>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2"><img src="./img/nithin.jpg" alt="Nithin" /></div>
             <p class="mb-0 fw-bold">Nithin</p>
-            <p>25+ Years<br />Healthcare</p>
+            <p>15+ Years<br />Healthcare</p>
           </div>
         </div>
       </div>
@@ -392,7 +392,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">
-              <div class="px-5">
+              <div class="px-2 px-sm-5">
                   <p>
                     If you  resonate with our mission, we would be super happy to
                     partner with you through which you can make a positive impact in
@@ -413,7 +413,7 @@
               </div>
           </div>
           <div class="col-md-6">
-            <img src="./img/pledge.png" alt="pledge" />
+            <img src="./img/pledge.png" alt="pledge" class="img-fluid"/>
           </div>
         </div>
       </div>
@@ -422,7 +422,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-3">
-            <img src="./img/cta-boy.png" alt="cta" />
+            <img src="./img/cta-boy.png" alt="cta" class="mb-4 mb-sm-0" />
           </div>
           <div class="col-md-6">
             <h3 class="text-blue">Help is just a click away</h3>
@@ -435,7 +435,7 @@
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
               target="_blank"
-              class="bg-blue rounded px-5 py-4 text-white text-decoration-none"
+              class="bg-blue rounded px-5 py-4 text-white text-decoration-none d-inline-block"
               >Click Here</a
             >
           </div>
@@ -447,9 +447,9 @@
         <div class="row">
           <div class="col-md-6">
             <div
-              class="d-flex align-items-center justify-content-center bg-white border rounded footer-logo py-4"
+              class="d-flex align-items-center justify-content-center bg-white border rounded footer-logo py-4 mb-4 mb-sm-0"
             >
-              <img src="./img/footer-logo.png" alt="logo" />
+              <img src="./img/footer-logo.png" alt="logo" class="img-fluid" />
             </div>
           </div>
           <div class="col-md-6">

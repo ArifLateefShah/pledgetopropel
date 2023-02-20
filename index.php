@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Peledge to Propel</title>
+    <title>Pledge to Propel</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -42,7 +42,7 @@
                   href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
                   target="_blank"
                   class="text-blue"
-                  >Parter with us</a
+                  >Partner with us</a
                 >
               </li>
             </ul>

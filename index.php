@@ -31,8 +31,7 @@
             <ul class="top-menu">
               <li>
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
-                  target="_blank"
+                  href="#bementor"
                   class="text-blue"
                   >Join as a Mentor</a
                 >
@@ -293,7 +292,7 @@
       </div>
     </section>
     <section>
-      <h1 class="text-center mb-5">Be a Mentor at Pledge2Propel</h1>
+      <h1 id="bementor" class="text-center mb-5">Be a Mentor at Pledge2Propel</h1>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">

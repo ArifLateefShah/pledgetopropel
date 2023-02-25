@@ -4,6 +4,10 @@
     <title>Pledge to Propel</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/png" href="img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -24,7 +28,7 @@
     <section class="hero">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-md-6">
+          <div class="col-md-6 logo">
             <img src="./img/pp-logo.png" alt="logo" class="mb-4 mb-sm-0" />
           </div>
           <div class="col-md-6 text-end">
@@ -75,13 +79,13 @@
             <h1 class="mb-4 text-center m-title">Here are some of the ways we can help you</h1>
             <ul class="nav nav-tabs justify-content-between" id="myTab" role="tablist">
               <li class="nav-item" role="presentation">
-                <button class="nav-link active fw-bold px-5" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Tech Upskilling</button>
+                <button class="nav-link active fw-bold px-2 px-md-5" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Tech Upskilling</button>
               </li>
               <li class="nav-item" role="presentation">
-                <button class="nav-link fw-bold px-5" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Entrepreneurship</button>
+                <button class="nav-link fw-bold px-2 px-md-5" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Entrepreneurship</button>
               </li>
               <li class="nav-item" role="presentation">
-                <button class="nav-link fw-bold px-5" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">Mental Wellness</button>
+                <button class="nav-link fw-bold px-2 px-md-5" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">Mental Wellness</button>
               </li>
             </ul>
             <div class="tab-content py-4" id="myTabContent">
@@ -99,62 +103,62 @@
                 </div>
                 <h3 class="my-4">Technologies and Skillsets we can help with:</h3>
                 <div class="row align-items-center">
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3 tech-card">
                       <div class="tech-icon pyton"></div>
                       <h5>Python</h5>
                       <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
                     </div>
                   </div>
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3 tech-card">
                       <div class="tech-icon rpa"></div>
                       <h5>RPA</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">Technology that enables organizations to automate routine, repetitive tasks, freeing up employees to focus on more strategic and creative work.</div>
                     </div>
                   </div>
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon qa"></div>
                       <h5>Automation QA</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">Process of using software tools and scripts to perform tests on applications, ensuring high-quality and efficient software development.</div>
                     </div>
                   </div>
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon ba"></div>
                       <h5>BA / Product Owner</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">Identifying business needs and translating them into actionable product requirements to ensure successful product delivery and customer satisfaction.</div>
                     </div>
                   </div>
                 </div>
                 <div class="row align-items-center">
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon frontend"></div>
                       <h5>Frontend / Microservices</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">Two essential technologies that work hand-in-hand to create dynamic, scalable, and user-friendly web applications.</div>
                     </div>
                   </div>
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon devops"></div>
                       <h5>DevOps</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">Combines software development and IT operations to enable organizations to deliver high-quality software faster and more efficiently.</div>
                     </div>
                   </div>
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon dataeng"></div>
                       <h5>Data Engineering</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">Designing, developing and maintaining infrastructure & architecture needed to organize and process large volumes of complex data for analysis and insights.</div>
                     </div>
                   </div>
-                  <div class="col-md-3">
+                  <div class="col-md-3 col-6">
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon ml"></div>
                       <h5>Machine Learning</h5>
-                      <div class="tech-hover text-white bg-blue">A versatile and widely-used technology that empowers professionals across industries to automate processes, analyze data, build applications, and more.</div>
+                      <div class="tech-hover text-white bg-blue">A cutting-edge technology that enables computers to learn from data, make predictions, and automate complex decision-making processes.</div>
                     </div>
                   </div>
                 </div>

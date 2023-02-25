@@ -230,4 +230,33 @@ section.helpyou {
         width: 125px;
         height: 125px;
     }
+    .helpyou .nav, .helpyou .nav-item {
+        display: block;
+        border:none;
+    }
+    .helpyou .nav-item {
+        border-bottom: 1px solid #ddd;
+    }
+    .helpyou .nav-link {
+        margin: 0 auto;
+    }
+    .helpyou .cta {
+        margin-bottom: 25px;
+    }
+    .op-card img {
+        max-width: 250px;
+    }
+    .logo img {
+        margin: 0 auto;
+        display: block;
+    }
+    .logo + .text-end {
+        text-align: center !important;
+    }
+    ul.top-menu li {
+        margin: auto;
+    }
+    footer .row div {
+        text-align: center !important;
+    }
 }

@@ -59,7 +59,11 @@
             <p>Our goal is to empower you with all the resources you need, because with the right guidance there is no limit to what you can achieve.</p>
           </div>
           <div class="col-md-6">
-            <img src="img/hero-mantra.png" class="img-fluid" />
+            <!-- <img src="img/hero-mantra.png" class="img-fluid" /> -->
+            <video width="100%" height="360" poster="img/hero-mantra.png" controls>
+              <source src="img/p2p-gayathri.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
           </div>
         </div>
       </div>

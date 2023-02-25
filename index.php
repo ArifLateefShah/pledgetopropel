@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Pledge to Propel</title>
+    <title>Pledge2Propel</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="title" content="Pledge2Propel | Life after Layoff | Layoff Support and Services">
+    <meta name="description" content="Pledge2Propel, an initiative of Ideas2IT and  IdeaRX, is on a mission to help technology professionals who’ve lost their jobs find new opportunities.">
     <link rel="shortcut icon" type="image/png" href="img/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
@@ -35,15 +37,14 @@
             <ul class="top-menu">
               <li>
                 <a
-                  href="#bementor"
+                  href="mailto:connect@pledge2propel.com?subject=I'm interested in Mentoring at Pledge2Propel"
                   class="text-blue fw-bold"
                   >Become a Mentor ></a
                 >
               </li>
               <li>
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
-                  target="_blank"
+                  href="mailto:connect@pledge2propel.com?subject=I'm interested in Partnering at Pledge2Propel"
                   class="text-blue fw-bold"
                   >Partner with us ></a
                 >
@@ -63,7 +64,6 @@
             <p>Our goal is to empower you with all the resources you need, because with the right guidance there is no limit to what you can achieve.</p>
           </div>
           <div class="col-md-6">
-            <!-- <img src="img/hero-mantra.png" class="img-fluid" /> -->
             <video width="100%" height="360" poster="img/hero-mantra.png" controls>
               <source src="img/p2p-gayathri.mp4" type="video/mp4">
               Your browser does not support the video tag.
@@ -151,7 +151,7 @@
                     <div class="rounded border-little-blue text-center my-3  tech-card">
                       <div class="tech-icon dataeng"></div>
                       <h5>Data Engineering</h5>
-                      <div class="tech-hover text-white bg-blue">Designing, developing and maintaining infrastructure & architecture needed to organize and process large volumes of complex data for analysis and insights.</div>
+                      <div class="tech-hover text-white bg-blue">Design, develop and maintain infrastructure & architecture needed to organize and process large volumes of data for analysis and insights.</div>
                     </div>
                   </div>
                   <div class="col-md-3 col-6">
@@ -240,9 +240,9 @@
             </div>
             <div class="row align-items-center cta-section">
               <div class="col-md-8">
-                <div class="text-center border-green py-5 cta bg-white">
+                <div class="text-center border-green px-3 py-5 cta bg-white">
                   <h2 class="mb-4">Help is just a click away</h2>
-                  <p><a href="mailto:connect@pledge2propel.com" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black fw-bold">Let us help you</a></p>
+                  <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform" class="cta-btn text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black fw-bold">Let us help you</a>
                 </div>
               </div>
               <div class="col-md-4">
@@ -257,8 +257,8 @@
       </div>
     </section>
     <section>
-      <h1 id="bementor" class="text-center mb-5">Be a Mentor at Pledge2Propel</h1>
       <div class="container">
+        <h1 id="bementor" class="text-center pt-4 pt-md-0 mb-5">Be a Mentor at Pledge2Propel</h1>
         <div class="row align-items-center">
           <div class="col-md-6">
             <img src="./img/quote.png" alt="quote" class="mb-4" />
@@ -279,7 +279,8 @@
             </p>
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
-              class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold"
+              class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn"
+              target="_blank"
               >Join us as a Mentor</a
             >
           </div>
@@ -496,7 +497,7 @@
           </div>
         </div>
       </div>
-      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold">Partner with us</a></p>
+      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
     </section>
     <section>
       <div class="container">
@@ -507,7 +508,7 @@
               <p>We're proud to be a part of the tech community; to have benefited from the brilliant contributions of thousands of tech professionals like you.</p>
               <p>That's why we're committed to giving back by providing high-quality, affordable training resources. </p>
               <p class="fs-bold">Tell us what you need, along with your contact details and we can guide you on your new journey.</p>
-              <p><a href="mailto:connect@pledge2propel.com" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black fw-bold">Let us help you</a></p>
+              <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black fw-bold text-center cta-btn mb-3">Let us help you</a>
             </div>
           </div>
           <div class="col-md-6">
@@ -553,10 +554,10 @@
             </p>
           </div>
           <div class="col-md-6 text-end">
-            <a class="text-white text-decoration-none" href="#"
+            <a class="text-white text-decoration-none" href="privacy.php" target="_blank"
               >Privacy Policy</a
             ><span class="text-white">&nbsp;|&nbsp;</span
-            ><a class="text-white text-decoration-none" href="#"
+            ><a class="text-white text-decoration-none" href="terms.php"
               >Terms of Use</a
             >
           </div>

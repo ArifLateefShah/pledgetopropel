@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
 }
 .text-blue {
-    color:#233E8B;
+    color:#00249C;
 }
 .text-white {
     color:#FFFFFF;
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
     color:#00B92B;
 }
 .bg-blue {
-    background-color: #233E8B;
+    background-color: #00249C;
 }
 .bg-black {
     background-color: #22222D;
@@ -258,5 +258,13 @@ section.helpyou {
     }
     footer .row div {
         text-align: center !important;
+    }
+    .cta-btn {
+        display: block !important;
+    }
+    .tech-hover {
+        padding: 10px;
+        font-size: 12px;
+        line-height: 18px;
     }
 }

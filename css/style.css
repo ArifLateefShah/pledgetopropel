@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     color:#000000;
+    border-top:5px solid #00249C;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
@@ -16,6 +17,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .text-yellow {
     color:#FEDC5A;
+}
+.text-green {
+    color:#00B92B;
 }
 .bg-blue {
     background-color: #233E8B;
@@ -32,6 +36,9 @@ h1, h2, h3, h4, h5, h6 {
 .bg-little-blue {
     background-color: #EDF6FF;
 }
+.bg-yellow {
+    background-color: #FFDD00;
+}
 .border-blue {
     border-color: #233E8B !important;
 }
@@ -39,26 +46,16 @@ section {
     padding: 50px 0;
 }
 .hero {
-    background-image: url('../img/hero.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    padding-top: 50px;
-}
-.hero-content {
-    border-radius: 20px;
-    padding: 40px 40px 30px;
-    margin: 50px auto auto;
+    padding-top: 25px;
+    padding-bottom: 0px;
 }
 ul.top-menu {
     list-style: none;
     padding: 0;
 }
 ul.top-menu li {
-    background-color: #FFFFFF80;
     display: inline-block;
     margin: auto 10px;
-    border-radius: 5px;
 }
 ul.top-menu li a {
     padding: 10px 15px;
@@ -71,9 +68,9 @@ ul.top-menu li a {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.mission {
+/* .mission {
     background-image: url('../img/mission-bg.png');
-}
+} */
 .mentor-pic {
     padding-top: 30px;
     padding-left: 15px;
@@ -87,13 +84,134 @@ ul.top-menu li a {
     border-radius: 50%;
     object-fit: cover;
 }
+ul.social {
+    line-height: 0;
+}
+ul.social li {
+    display: inline-block;
+    padding-right: 10px;
+}
+ul.social li a {
+    width: 24px;
+    height: 24px;
+    background-image: url('../img/social_media.png');
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+ul.social li a.social-fb {
+    background-position: 0 0;
+}
+ul.social li a.social-insta {
+    background-position: -36px 0px;
+}
+ul.social li a.social-linkdin {
+    background-position: -72px 0;
+}
+ul.social li a.social-youtube {
+    background-position: -108px 0;
+}
+ul.social li a.social-twitter {
+    background-position: 24px 0;
+}
+.op-card {
+    min-height: 145px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.border-green {
+    border:1px solid #00B92B;
+}
+section.helpyou {
+    padding-top: 50px;
+}
+.helpyou .m-title {
+    position: relative;
+    top: -25px;
+    background-color: #ffffff;
+}
+.helpyou .cta-section {
+    position: relative;
+    bottom: -100px;
+    margin-top: -50px;
+}
+.helpyou .container, .helpyou .cta {
+    border-radius: 40px;
+}
+.helpyou .nav-link.active {
+    color:#00249C;
+    border: none;
+    border-bottom: 4px solid #00B92B;
+}
+.helpyou .nav-link {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.border-little-blue {
+    border:1px solid #89A3FA;
+}
+.tech-card {
+    min-height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.tech-card:hover .tech-hover {
+    top: 0;
+}
+.tech-hover {
+    position: absolute;
+    min-height: 160px;
+    padding: 15px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align:left;
+    left: 0;
+    transition: all .3s ease-out;
+    top: 100%;
+}
+.tech-icon {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto 10px;
+    background-image: url('../img/skills-icons.png');
+}
+.tech-icon.pyton {
+    background-position: -15px -15px;
+}
+.tech-icon.rpa {
+    background-position: -15px -66px;
+}
+.tech-icon.qa {
+    background-position: -15px -117px;
+}
+.tech-icon.ba {
+    background-position: -15px -170px;
+}
+.tech-icon.frontend {
+    background-position: -15px -220px;
+}
+.tech-icon.devops {
+    background-position: -15px -273px;
+}
+.tech-icon.dataeng {
+    background-position: -15px -326px;
+}
+.tech-icon.ml {
+    background-position: -15px -378px;
+}
 @media screen and (min-width:768px) {
     section {
         padding: 100px 0;
     }
-    .footer-logo {
+    /* .footer-logo {
         min-height: 500px;
-    }
+    } */
 
 }
 @media screen and (max-width:767px) {

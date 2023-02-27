@@ -37,14 +37,14 @@
             <ul class="top-menu">
               <li>
                 <a
-                  href="mailto:connect@pledge2propel.com?subject=I'm interested in Mentoring at Pledge2Propel"
+                  href="#bementor"
                   class="text-blue fw-bold"
                   >Become a Mentor ></a
                 >
               </li>
               <li>
                 <a
-                  href="mailto:connect@pledge2propel.com?subject=I'm interested in Partnering at Pledge2Propel"
+                  href="#beparnter"
                   class="text-blue fw-bold"
                   >Partner with us ></a
                 >
@@ -240,15 +240,15 @@
             </div>
             <div class="row align-items-center cta-section">
               <div class="col-md-8">
-                <div class="text-center border-green px-3 py-5 cta bg-white">
+                <div class="text-center border-green rounded-4 px-3 py-5 cta bg-white">
                   <h2 class="mb-4">Help is just a click away</h2>
                   <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform" class="cta-btn text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black fw-bold">Let us help you</a>
                 </div>
               </div>
               <div class="col-md-4">
-                <div class="bg-black text-white p-4 rounded">
-                  <p><strong>Help is available irrespective of geography as sessions are held online.</strong></p>
-                  <p class="mb-0">Note that we can give you the tools to build a better future, but do not guarantee a job or anything equivalent.</p>
+                <div class="bg-black text-white p-4 rounded-4">
+                  <p class="fs-14"><strong>Help is available irrespective of geography as sessions are held online.</strong></p>
+                  <p class="mb-0 fs-14">Note that we can give you the tools to build a better future, but do not guarantee a job or anything equivalent.</p>
                 </div>
               </div>
             </div>
@@ -258,7 +258,7 @@
     </section>
     <section>
       <div class="container">
-        <h1 id="bementor" class="text-center pt-4 pt-md-0 mb-5">Be a Mentor at Pledge2Propel</h1>
+        <h1 id="bementor" class="text-center pt-4 pt-md-0 mb-5">Be a Mentor at <span class="text-blue">Pledge<span class="text-green">2</span>Propel</span></h1>
         <div class="row align-items-center">
           <div class="col-md-6">
             <img src="./img/quote.png" alt="quote" class="mb-4" />
@@ -278,7 +278,7 @@
               information.</strong>
             </p>
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform"
+              href="https://docs.google.com/forms/d/1OFuZML31kgniTxqiKybNwWN8lTRmVgbdnMRO0kbihRQ/edit"
               class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn"
               target="_blank"
               >Join us as a Mentor</a
@@ -450,7 +450,7 @@
       </div>
     </section>
     <section>
-      <h1 class="text-center mb-5">Partner with Pledge2Propel</h1>
+      <h1 id="beparnter" class="text-center mb-5">Partner with Pledge2Propel</h1>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">
@@ -487,17 +487,17 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <div class="bg-white rounded p-4 text-center op-card"><img src="img/ideas2it-logo.png" class="img-fluid" /></div>
+            <div class="bg-white rounded-4 p-4 text-center op-card"><img src="img/ideas2it-logo.png" class="img-fluid" /></div>
           </div>
           <div class="col-md-4">
-            <div class="bg-white rounded p-4 text-center op-card"><img src="img/idearx-logo.png" class="img-fluid" /></div>
+            <div class="bg-white rounded-4 p-4 text-center op-card"><img src="img/idearx-logo.png" class="img-fluid" /></div>
           </div>
           <div class="col-md-4">
-            <div class="bg-white rounded p-4 text-center op-card"><img src="img/hellm-logo.png" class="img-fluid" /></div>
+            <div class="bg-white rounded-4 p-4 text-center op-card"><img src="img/hellm-logo.png" class="img-fluid" /></div>
           </div>
         </div>
       </div>
-      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSewtQRnon5F4tDqt-fLkZVReK3be13MbtWcL3rwEwI4NINEgQ/viewform" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
+      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/1ulyqymmCOi2G2xVRhuTND4_Sm5NzgY9Ppa36-EceaO0/edit" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
     </section>
     <section>
       <div class="container">
@@ -530,7 +530,7 @@
           <div class="col-md-6">
             <h1 class="text-yellow fw-bold">Our Mission Statement</h1>
             <p class="text-white">At Pledge2Propel, we value the tech community and the contributions of its talented professionals to the world economy. ‘Pledge2Propel’ is our way of giving back, by helping tech professionals who've lost their jobs find new opportunities for growth and success.</p>
-            <p class="text-white fw-bold">Our Mantra is Empathise, Inspire, Empower.</p>
+            <p class="text-white fs-5 fw-bold">Our Mantra is Empathise, Inspire, Empower.</p>
             <hr class="border-white my-5"/>
             <p class="fw-bold text-white">Contact Us</p>
             <p><a class="text-white text-decoration-none" href="mailto:connect@pledge2propel.com" target="_blank">connect@pledge2propel.com</a></p>

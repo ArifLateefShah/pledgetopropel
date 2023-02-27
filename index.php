@@ -504,7 +504,7 @@
           </div>
         </div>
       </div>
-      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3BpQ_IAEA4zcpHJmy-3pgdf8vD0D6npL-sjCgQQk3Di-jDw/viewform" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
+      <p class="text-center mt-5"><a href="https://forms.gle/k3gdM1zHF3hGSQrn8" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
     </section>
     <section>
       <div class="container">

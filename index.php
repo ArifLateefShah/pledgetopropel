@@ -314,10 +314,10 @@
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/radha.png" alt="Radha" />
+              <img src="./img/prasath.png" alt="Prasath" />
             </div>
-            <p class="mb-0 fw-bold">Radha</p>
-            <p>BA/Product Owner<br />Manager - Projects</p>
+            <p class="mb-0 fw-bold">Prasath</p>
+            <p>DevOps<br />Associate Director</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
@@ -446,6 +446,13 @@
             <p class="mb-0 fw-bold">Giridhar</p>
             <p>Data Engineering<br />Data Scientist</p>
           </div>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
+              <img src="./img/radha.png" alt="Radha" />
+            </div>
+            <p class="mb-0 fw-bold">Radha</p>
+            <p>BA/Product Owner<br />Manager - Projects</p>
+          </div>
         </div>
       </div>
     </section>
@@ -497,7 +504,7 @@
           </div>
         </div>
       </div>
-      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/1ulyqymmCOi2G2xVRhuTND4_Sm5NzgY9Ppa36-EceaO0/edit" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
+      <p class="text-center mt-5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3BpQ_IAEA4zcpHJmy-3pgdf8vD0D6npL-sjCgQQk3Di-jDw/viewform" class="text-decoration-none bg-yellow px-4 py-3 d-inline-block rounded text-black text-center fw-bold cta-btn mx-3" target="_blank">Partner with us</a></p>
     </section>
     <section>
       <div class="container">

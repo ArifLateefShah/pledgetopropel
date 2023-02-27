@@ -298,33 +298,33 @@
       <h1 class="text-center mb-5">Meet the Mentors</h1>
       <div class="container text-center">
         <div class="row">
+        <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
+              <img src="./img/arun.png" alt="arun g" />
+            </div>
+            <p class="mb-0 fw-bold">Arun</p>
+            <p>Primary Mentor<br />Director Technology</p>
+          </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/ramanvel.png" alt="Ramanvel" />
             </div>
             <p class="mb-0 fw-bold">Ramanvel</p>
-            <p>14+ Years<br />Fintech</p>
-          </div>
-          <div class="col-md-3 col-6">
-            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/veera.jpg" alt="Veera" />
-            </div>
-            <p class="mb-0 fw-bold">Veera</p>
-            <p>17+ Years<br />Fintech</p>
+            <p>Primary Mentor<br />Senior Solution Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/radha.png" alt="Radha" />
             </div>
             <p class="mb-0 fw-bold">Radha</p>
-            <p>10+ Years<br />Healthcare</p>
+            <p>BA/Product Owner<br />Manager - Projects</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/kalpana.jpg" alt="Kalpana" />
+              <img src="./img/kalpana.png" alt="Kalpana" />
             </div>
             <p class="mb-0 fw-bold">Kalpana</p>
-            <p>20+ Years<br />Healthcare</p>
+            <p>BA/Product Owner<br />Group Project Manager</p>
           </div>
         </div>
         <div class="row">
@@ -333,28 +333,28 @@
               <img src="./img/maharaja.png" alt="Maharaja" />
             </div>
             <p class="mb-0 fw-bold">Maharaja</p>
-            <p>15+ Years<br />Healthcare</p>
+            <p>BA/Product Owner<br />Senior Manager Projects</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/nithyanandakumar.png" alt="Nithyanandakumar" />
             </div>
             <p class="mb-0 fw-bold">Nithyanandakumar</p>
-            <p>14+ Years<br />Fintech</p>
+            <p>Frontend/Microservices<br />Technical Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/rajasekar.png" alt="Rajasekar" />
             </div>
             <p class="mb-0 fw-bold">Rajasekar</p>
-            <p>14+ Years<br />Telecom</p>
+            <p>Frontend/Microservices<br />Senior Technical Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/poorani.jpg" alt="Poorani Idhaya Bala" />
+              <img src="./img/veera.png" alt="Veera" />
             </div>
-            <p class="mb-0 fw-bold">Poorani Idhaya Bala</p>
-            <p>16+ Years<br />Healthcare</p>
+            <p class="mb-0 fw-bold">Veera</p>
+            <p>Frontend/Microservices<br />Technical Architect</p>
           </div>
         </div>
         <div class="row">
@@ -363,28 +363,28 @@
               <img src="./img/rajmohan.png" alt="Rajmohan" />
             </div>
             <p class="mb-0 fw-bold">Rajmohan</p>
-            <p>12+ Years<br />Healthcare</p>
+            <p>Python<br />Data Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/ramesh.png" alt="Ramesh" />
             </div>
             <p class="mb-0 fw-bold">Ramesh MM</p>
-            <p>14+ Years<br />Fintech</p>
+            <p>Frontend/Microservices<br />Technical Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/aswin.png" alt="Aswin" />
             </div>
             <p class="mb-0 fw-bold">Aswin</p>
-            <p>11+ Years<br />FMCG</p>
+            <p>RPA<br />Technical Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/nithin.jpg" alt="Nithin" />
             </div>
             <p class="mb-0 fw-bold">Nithin</p>
-            <p>15+ Years<br />Healthcare</p>
+            <p>Data Engineering<br />Associate Data Architect</p>
           </div>
         </div>
         <div class="row">
@@ -393,28 +393,28 @@
               <img src="./img/premkumar.png" alt="Prem Kumar" />
             </div>
             <p class="mb-0 fw-bold">Prem Kumar</p>
-            <p>13+ Years<br />Healthcare</p>
+            <p>DevOps<br />Technical Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/sundar.png" alt="Sundar" />
             </div>
             <p class="mb-0 fw-bold">Sundar</p>
-            <p>13+ Years<br />Fintech</p>
+            <p>RPA<br />Associate Technical Architect</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/aravindhan.png" alt="Aravindhan" />
             </div>
             <p class="mb-0 fw-bold">Aravindhan</p>
-            <p>9+ Years<br />Fintech</p>
+            <p>Automation QA<br />Associate Director</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/sriram.jpg" alt="Sriram" />
             </div>
             <p class="mb-0 fw-bold">Sriram</p>
-            <p>16+ Years<br />Fintech</p>
+            <p>BA/Product Owner<br />Manager - Projects</p>
           </div>
         </div>
         <div class="row">
@@ -423,28 +423,28 @@
               <img src="./img/arjun.png" alt="Arjun" />
             </div>
             <p class="mb-0 fw-bold">Arjun</p>
-            <p>9+ Years<br />Healthcare</p>
+            <p>Python<br />Senior Technical Analyst</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/karthikeyan.jpg" alt="Karthikeyan" />
             </div>
             <p class="mb-0 fw-bold">Karthikeyan</p>
-            <p>15+ Years<br />Healthcare</p>
+            <p>Machine Learning<br />Lead Data Scientist</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/vinodh.png" alt="Vinodh Su" />
             </div>
             <p class="mb-0 fw-bold">Vinodh Su</p>
-            <p>12+ Years<br />Healthcare</p>
+            <p>BA/Product Owner<br />Manager - Implementation</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
               <img src="./img/giridhar.jpg" alt="Giridhar" />
             </div>
             <p class="mb-0 fw-bold">Giridhar</p>
-            <p>8+ Years<br />Healthcare</p>
+            <p>Data Engineering<br />Data Scientist</p>
           </div>
         </div>
       </div>

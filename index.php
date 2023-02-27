@@ -37,14 +37,14 @@
             <ul class="top-menu">
               <li>
                 <a
-                  href="#bementor"
+                  href="#becomeamentor"
                   class="text-blue fw-bold"
                   >Become a Mentor ></a
                 >
               </li>
               <li>
                 <a
-                  href="#beparnter"
+                  href="#partnerwithus"
                   class="text-blue fw-bold"
                   >Partner with us ></a
                 >
@@ -258,7 +258,7 @@
     </section>
     <section>
       <div class="container">
-        <h1 id="bementor" class="text-center pt-4 pt-md-0 mb-5">Be a Mentor at <span class="text-blue">Pledge<span class="text-green">2</span>Propel</span></h1>
+        <h1 id="becomeamentor" class="text-center pt-4 pt-md-0 mb-5">Be a Mentor at <span class="text-blue">Pledge<span class="text-green">2</span>Propel</span></h1>
         <div class="row align-items-center">
           <div class="col-md-6">
             <img src="./img/quote.png" alt="quote" class="mb-4" />
@@ -450,7 +450,7 @@
       </div>
     </section>
     <section>
-      <h1 id="beparnter" class="text-center mb-5">Partner with Pledge2Propel</h1>
+      <h1 id="partnerwithus" class="text-center mb-5">Partner with Pledge2Propel</h1>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">

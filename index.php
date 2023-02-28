@@ -330,9 +330,9 @@
         <div class="row">
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/maharaja.png" alt="Maharaja" />
+              <img src="./img/madan.png" alt="Madan" />
             </div>
-            <p class="mb-0 fw-bold">Maharaja</p>
+            <p class="mb-0 fw-bold">Madan</p>
             <p>BA/Product Owner<br />Senior Manager Projects</p>
           </div>
           <div class="col-md-3 col-6">
@@ -397,10 +397,10 @@
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/sundar.png" alt="Sundar" />
+              <img src="./img/maharaja.png" alt="Maharaja" />
             </div>
-            <p class="mb-0 fw-bold">Sundar</p>
-            <p>RPA<br />Associate Technical Architect</p>
+            <p class="mb-0 fw-bold">Maharaja</p>
+            <p>BA/Product Owner<br />Senior Manager Projects</p>
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
@@ -452,6 +452,27 @@
             </div>
             <p class="mb-0 fw-bold">Radha</p>
             <p>BA/Product Owner<br />Manager - Projects</p>
+          </div>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
+              <img src="./img/arif.jfif" alt="Arif Shah" />
+            </div>
+            <p class="mb-0 fw-bold">Arif Shah</p>
+            <p>BA/Product Owner<br />Manager - Projects</p>
+          </div>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
+              <img src="./img/sundar.png" alt="Maharaja" />
+            </div>
+            <p class="mb-0 fw-bold">Sundar</p>
+            <p>RPA<br />Associate Technical Architect</p>
+          </div>
+          <div class="col-md-3 col-6">
+            <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
+              <img src="./img/msaswin.png" alt="MS Aswin" />
+            </div>
+            <p class="mb-0 fw-bold">MS Aswin</p>
+            <p>RPA<br />Technical Analyst</p>
           </div>
         </div>
       </div>

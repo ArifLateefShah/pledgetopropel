@@ -233,7 +233,7 @@
                     <div class="my-3 d-flex align-items-center">
                       <div class="bg-blue rounded me-4 p-4">
                         <img src="img/access.svg" alt="access" /></div>
-                      <div class="pe-5">Access to a network that can provide support and inspiration.</div>
+                      <div class="pe-5">Access to a community that can provide support and inspiration.</div>
                     </div>
                   </div>
                   <div class="col-md-6">

@@ -192,7 +192,7 @@
                   <div class="col-md-6">
                     <div class="my-3 d-flex align-items-center">
                       <div class="bg-blue rounded me-4 p-4"><img src="img/network.svg" alt="network" /></div>
-                      <div class="pe-5">Access to a network of like-minded individuals who can provide support and inspiration.</div>
+                      <div class="pe-5">Access to a community that can provide support and inspiration.</div>
                     </div>
                   </div>
                   <div class="col-md-6">
@@ -223,7 +223,7 @@
                   </div>
                   <div class="col-md-6">
                     <div class="my-3 d-flex align-items-center">
-                      <div class="bg-blue rounded me-4 p-4"><img src="img/excise.svg" alt="excise" /></div>
+                      <div class="bg-blue rounded me-4 p-4 excise"><img src="img/exercises.svg" alt="excise" /></div>
                       <div class="pe-5">Exercises and affirmations to help build the resilience required to move forward.</div>
                     </div>
                   </div>
@@ -231,8 +231,15 @@
                 <div class="row align-items-center">
                   <div class="col-md-6">
                     <div class="my-3 d-flex align-items-center">
-                      <div class="bg-blue rounded me-4 p-4"><img src="img/access.svg" alt="access" /></div>
+                      <div class="bg-blue rounded me-4 p-4">
+                        <img src="img/access.svg" alt="access" /></div>
                       <div class="pe-5">Access to a network that can provide support and inspiration.</div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="my-3 d-flex align-items-center">
+                      <div class="bg-blue rounded me-4 p-4"><img src="img/overall-wellness.svg" alt="access" /></div>
+                      <div class="pe-5">An overall Wellness Score including emotional health, fitness & self-care followed by targeted advisory</div>
                     </div>
                   </div>
                 </div>

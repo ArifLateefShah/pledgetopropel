@@ -388,7 +388,7 @@
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/nithin.jpg" alt="Nithin" />
+              <img src="./img/nithin.png" alt="Nithin" />
             </div>
             <p class="mb-0 fw-bold">Nithin</p>
             <p>Data Engineering<br />Associate Data Architect</p>
@@ -434,7 +434,7 @@
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/karthikeyan.jpg" alt="Karthikeyan" />
+              <img src="./img/karthikeyan.png" alt="Karthikeyan" />
             </div>
             <p class="mb-0 fw-bold">Karthikeyan</p>
             <p>Machine Learning<br />Lead Data Scientist</p>
@@ -448,7 +448,7 @@
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/giridhar.jpg" alt="Giridhar" />
+              <img src="./img/giridhar.png" alt="Giridhar" />
             </div>
             <p class="mb-0 fw-bold">Giridhar</p>
             <p>Data Engineering<br />Data Scientist</p>
@@ -462,7 +462,7 @@
           </div>
           <div class="col-md-3 col-6">
             <div class="bg-blue mentor-pic rounded-circle d-inline-block mb-2">
-              <img src="./img/arif.jfif" alt="Arif Shah" />
+              <img src="./img/arif.png" alt="Arif Shah" />
             </div>
             <p class="mb-0 fw-bold">Arif Shah</p>
             <p>BA/Product Owner<br />Manager - Projects</p>
